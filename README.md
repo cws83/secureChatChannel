@@ -31,4 +31,3 @@ you cannot securely encrypt/decrypt:
 and "Alice" and "Bob" both:
 - create txt files 
 - print key and message values
-- delete said txt files upon the code's completion
